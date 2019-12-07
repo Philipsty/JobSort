@@ -1,6 +1,6 @@
 ## JobSort
 The CPU scheduler can aim for one of many different goals 
-such as, ensuringthe highest number of jobs are being processed 
+such as, ensuring the highest number of jobs are being processed 
 during a time period, minimizing the amount of time each job has 
 to wait, or ensuring that each job gets an equal amount of processing
 time.
